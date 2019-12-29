@@ -31,4 +31,4 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 * Add a toggle button that lets you sort the moves in either ascending or descending order.
 * When someone wins, highlight the three squares that caused the win.
 * When no one wins, display a message about the result being a draw.
-* break up the components so things are more readable (probably requires webpack)
+* ~~break up the components so things are more readable (probably requires webpack)~~
